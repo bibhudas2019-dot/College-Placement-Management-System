@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 customtkinter
 mysql-connector-python
 pillow
 matplotlib
+=======
+customtkinter
+mysql-connector-python
+pillow
+matplotlib
+>>>>>>> 24669ef91ad9a39de534320428a60ef7db8acb63
 python-dotenv
